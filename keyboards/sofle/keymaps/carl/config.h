@@ -8,4 +8,5 @@ for more options.
 #define TAPPING_TERM 200
 #define PERMISSIVE_HOLD_PER_KEY
 #define QUICK_TAP_TERM 100
+#define RETRO_TAPPING_PER_KEY
 // #define DYNAMIC_TAPPING_TERM_ENABLE
